@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Github Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-product-preview-card-nkQxjSduwh)
+- Live Site URL: [Github Live Site](https://caspgin.github.io/FMC---Product-Card/src/index.html)
 
 ## My process
 
